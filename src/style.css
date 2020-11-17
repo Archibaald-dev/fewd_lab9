@@ -1,0 +1,6 @@
+.hero {
+    background-color: midnightblue;
+}
+.hero h1, .hero h2 {
+    color: white !important;
+}
